@@ -16,18 +16,18 @@ $appList = @(
     [PSCustomObject]@{ Name = "Postman"; Id = "Postman.Postman"; Categoria = "Desenvolvimento" }
     [PSCustomObject]@{ Name = "Visual Studio 2022 Community"; Id = "Microsoft.VisualStudio.2022.Community"; Categoria = "Desenvolvimento" }
     [PSCustomObject]@{ Name = "MobaXterm"; Id = "Mobatek.MobaXterm"; Categoria = "Desenvolvimento" }
-	[PSCustomObject]@{ Name = "Crystal Dew World"; Id = "CrystalDewWorld.CrystalDiskMark"; Categoria = "Desenvolvimento" }
-	[PSCustomObject]@{ Name = "HelpNDoc"; Id = "IBESoftware.HelpNDoc"; Categoria = "Desenvolvimento" }
-	[PSCustomObject]@{ Name = "Tortoise Git"; Id = "TortoiseGit.TortoiseGit"; Categoria = "Desenvolvimento" }
-	[PSCustomObject]@{ Name = "Tortoise SVN"; Id = "TortoiseSVN.TortoiseSVN"; Categoria = "Desenvolvimento" }
+    [PSCustomObject]@{ Name = "Crystal Dew World"; Id = "CrystalDewWorld.CrystalDiskMark"; Categoria = "Desenvolvimento" }
+    [PSCustomObject]@{ Name = "HelpNDoc"; Id = "IBESoftware.HelpNDoc"; Categoria = "Desenvolvimento" }
+    [PSCustomObject]@{ Name = "Tortoise Git"; Id = "TortoiseGit.TortoiseGit"; Categoria = "Desenvolvimento" }
+    [PSCustomObject]@{ Name = "Tortoise SVN"; Id = "TortoiseSVN.TortoiseSVN"; Categoria = "Desenvolvimento" }
 
     # Banco de Dados
     [PSCustomObject]@{ Name = "Firebird 3"; Id = "FirebirdProject.Firebird.3"; Categoria = "Banco de Dados" }
     [PSCustomObject]@{ Name = "PostgreSQL 17"; Id = "PostgreSQL.PostgreSQL.17"; Categoria = "Banco de Dados" }
     [PSCustomObject]@{ Name = "DBeaver"; Id = "dbeaver.dbeaver"; Categoria = "Banco de Dados" }
     [PSCustomObject]@{ Name = "SSMS"; Id = "Microsoft.SQLServerManagementStudio"; Categoria = "Banco de Dados" }
-	[PSCustomObject]@{ Name = "PG Admin"; Id = "PostgreSQL.pgAdmin"; Categoria = "Banco de Dados" }
-	[PSCustomObject]@{ Name = "My SQL Workbench"; Id = "Oracle.MySQLWorkbench"; Categoria = "Banco de Dados" }
+    [PSCustomObject]@{ Name = "PG Admin"; Id = "PostgreSQL.pgAdmin"; Categoria = "Banco de Dados" }
+    [PSCustomObject]@{ Name = "My SQL Workbench"; Id = "Oracle.MySQLWorkbench"; Categoria = "Banco de Dados" }
 
     # Produtividade
     [PSCustomObject]@{ Name = "Microsoft Teams"; Id = "Microsoft.Teams"; Categoria = "Produtividade" }
@@ -58,7 +58,7 @@ $appList = @(
     # Outros
     [PSCustomObject]@{ Name = "NDI 5 Runtime"; Id = "NewTek.NDI5Runtime"; Categoria = "Outros" }
     [PSCustomObject]@{ Name = "NDI 5 Tools"; Id = "NewTek.NDI5Tools"; Categoria = "Outros" }	
-	[PSCustomObject]@{ Name = "Windows Terminal"; Id = "Microsoft.WindowsTerminal"; Categoria = "Outros" }
+    [PSCustomObject]@{ Name = "Windows Terminal"; Id = "Microsoft.WindowsTerminal"; Categoria = "Outros" }
     [PSCustomObject]@{ Name = "WSL"; Id = "Microsoft.WSL"; Categoria = "Outros" }
 )
 
