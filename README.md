@@ -34,7 +34,7 @@ Execute o script
 
 Navegue até a pasta onde está o script e execute:
 ```powershell
-.\instalar_apps.ps1
+powershell -ExecutionPolicy Bypass -File .\instalador.ps1
 ````
 
 O script pode conter um loop que percorre cada item da lista $appList e utiliza:
